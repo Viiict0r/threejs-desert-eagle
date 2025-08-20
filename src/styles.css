@@ -1,0 +1,9 @@
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
+
+#canvas-container, canvas {
+  width: 100%;
+  min-height: 100vh;
+}
